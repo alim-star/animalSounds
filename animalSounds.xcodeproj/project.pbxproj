@@ -7,27 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		413C9F9A27A0F650005D5AE8 /* cow.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9427A0F650005D5AE8 /* cow.wav */; };
-		413C9F9B27A0F650005D5AE8 /* dog.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9527A0F650005D5AE8 /* dog.wav */; };
-		413C9F9C27A0F650005D5AE8 /* horse.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9627A0F650005D5AE8 /* horse.wav */; };
-		413C9F9D27A0F650005D5AE8 /* goat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9727A0F650005D5AE8 /* goat.wav */; };
-		413C9F9E27A0F650005D5AE8 /* cat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9827A0F650005D5AE8 /* cat.wav */; };
-		413C9F9F27A0F650005D5AE8 /* rooster.wav in Resources */ = {isa = PBXBuildFile; fileRef = 413C9F9927A0F650005D5AE8 /* rooster.wav */; };
 		413ED13C2784DEC400A1109E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413ED13B2784DEC400A1109E /* AppDelegate.swift */; };
 		413ED13E2784DEC400A1109E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413ED13D2784DEC400A1109E /* SceneDelegate.swift */; };
 		413ED1402784DEC400A1109E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 413ED13F2784DEC400A1109E /* ViewController.swift */; };
 		413ED1432784DEC400A1109E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 413ED1412784DEC400A1109E /* Main.storyboard */; };
 		413ED1452784DEC700A1109E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 413ED1442784DEC700A1109E /* Assets.xcassets */; };
 		413ED1482784DEC700A1109E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 413ED1462784DEC700A1109E /* LaunchScreen.storyboard */; };
+		4184C28A27BA2F66007DBFE0 /* goat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28427BA2F66007DBFE0 /* goat.wav */; };
+		4184C28B27BA2F66007DBFE0 /* rooster.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28527BA2F66007DBFE0 /* rooster.wav */; };
+		4184C28C27BA2F66007DBFE0 /* cat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28627BA2F66007DBFE0 /* cat.wav */; };
+		4184C28D27BA2F66007DBFE0 /* horse.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28727BA2F66007DBFE0 /* horse.wav */; };
+		4184C28E27BA2F66007DBFE0 /* dog.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28827BA2F66007DBFE0 /* dog.wav */; };
+		4184C28F27BA2F66007DBFE0 /* cow.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4184C28927BA2F66007DBFE0 /* cow.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		413C9F9427A0F650005D5AE8 /* cow.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cow.wav; sourceTree = "<group>"; };
-		413C9F9527A0F650005D5AE8 /* dog.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dog.wav; sourceTree = "<group>"; };
-		413C9F9627A0F650005D5AE8 /* horse.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = horse.wav; sourceTree = "<group>"; };
-		413C9F9727A0F650005D5AE8 /* goat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = goat.wav; sourceTree = "<group>"; };
-		413C9F9827A0F650005D5AE8 /* cat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cat.wav; sourceTree = "<group>"; };
-		413C9F9927A0F650005D5AE8 /* rooster.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = rooster.wav; sourceTree = "<group>"; };
 		413ED1382784DEC400A1109E /* animalSounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animalSounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		413ED13B2784DEC400A1109E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		413ED13D2784DEC400A1109E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +30,12 @@
 		413ED1442784DEC700A1109E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		413ED1472784DEC700A1109E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		413ED1492784DEC700A1109E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4184C28427BA2F66007DBFE0 /* goat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = goat.wav; sourceTree = "<group>"; };
+		4184C28527BA2F66007DBFE0 /* rooster.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = rooster.wav; sourceTree = "<group>"; };
+		4184C28627BA2F66007DBFE0 /* cat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cat.wav; sourceTree = "<group>"; };
+		4184C28727BA2F66007DBFE0 /* horse.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = horse.wav; sourceTree = "<group>"; };
+		4184C28827BA2F66007DBFE0 /* dog.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dog.wav; sourceTree = "<group>"; };
+		4184C28927BA2F66007DBFE0 /* cow.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cow.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,20 +49,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		413C9F9327A0F650005D5AE8 /* Final Sounds */ = {
-			isa = PBXGroup;
-			children = (
-				413C9F9427A0F650005D5AE8 /* cow.wav */,
-				413C9F9527A0F650005D5AE8 /* dog.wav */,
-				413C9F9627A0F650005D5AE8 /* horse.wav */,
-				413C9F9727A0F650005D5AE8 /* goat.wav */,
-				413C9F9827A0F650005D5AE8 /* cat.wav */,
-				413C9F9927A0F650005D5AE8 /* rooster.wav */,
-			);
-			name = "Final Sounds";
-			path = "../../../../Desktop/Animal Sounds/Final Sounds";
-			sourceTree = "<group>";
-		};
 		413ED12F2784DEC400A1109E = {
 			isa = PBXGroup;
 			children = (
@@ -89,9 +75,22 @@
 				413ED1442784DEC700A1109E /* Assets.xcassets */,
 				413ED1462784DEC700A1109E /* LaunchScreen.storyboard */,
 				413ED1492784DEC700A1109E /* Info.plist */,
-				413C9F9327A0F650005D5AE8 /* Final Sounds */,
+				4184C28327BA2F66007DBFE0 /* Final Sounds */,
 			);
 			path = animalSounds;
+			sourceTree = "<group>";
+		};
+		4184C28327BA2F66007DBFE0 /* Final Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				4184C28427BA2F66007DBFE0 /* goat.wav */,
+				4184C28527BA2F66007DBFE0 /* rooster.wav */,
+				4184C28627BA2F66007DBFE0 /* cat.wav */,
+				4184C28727BA2F66007DBFE0 /* horse.wav */,
+				4184C28827BA2F66007DBFE0 /* dog.wav */,
+				4184C28927BA2F66007DBFE0 /* cow.wav */,
+			);
+			path = "Final Sounds";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,15 +151,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				413C9F9D27A0F650005D5AE8 /* goat.wav in Resources */,
-				413C9F9A27A0F650005D5AE8 /* cow.wav in Resources */,
+				4184C28E27BA2F66007DBFE0 /* dog.wav in Resources */,
 				413ED1482784DEC700A1109E /* LaunchScreen.storyboard in Resources */,
-				413C9F9E27A0F650005D5AE8 /* cat.wav in Resources */,
-				413C9F9C27A0F650005D5AE8 /* horse.wav in Resources */,
-				413C9F9B27A0F650005D5AE8 /* dog.wav in Resources */,
+				4184C28B27BA2F66007DBFE0 /* rooster.wav in Resources */,
 				413ED1452784DEC700A1109E /* Assets.xcassets in Resources */,
-				413C9F9F27A0F650005D5AE8 /* rooster.wav in Resources */,
+				4184C28F27BA2F66007DBFE0 /* cow.wav in Resources */,
 				413ED1432784DEC400A1109E /* Main.storyboard in Resources */,
+				4184C28A27BA2F66007DBFE0 /* goat.wav in Resources */,
+				4184C28C27BA2F66007DBFE0 /* cat.wav in Resources */,
+				4184C28D27BA2F66007DBFE0 /* horse.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
